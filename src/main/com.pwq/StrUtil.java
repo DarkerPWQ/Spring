@@ -11,6 +11,6 @@ import org.springframework.stereotype.Component;
 @Component("strUtil")
 public class StrUtil {
     public void show(){
-        System.out.println("hello strutil");
+        System.out.println("hello +dev");
     }
 }
