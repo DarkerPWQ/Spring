@@ -15,6 +15,7 @@ public class Math implements Imath
     public int add(int n1,int n2){
         int result=n1+n2;
         System.out.println(n1+"+"+n2+"="+result);
+        System.out.println("master的提交，和devmerge后还在不在？");
         return result;
     }
 
