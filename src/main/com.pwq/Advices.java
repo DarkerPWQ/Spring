@@ -22,6 +22,7 @@ public class Advices {
     public void before(JoinPoint jp){
         System.out.println("----------前置通知----------");
         System.out.println(jp.getSignature().getName());
+        System.out.println("dev的修改");
 
     }
 //    @After("execution(* main.com.pwq.*.*(..))")
