@@ -22,5 +22,6 @@ public class Test {
         strUtil.show();
         System.out.println("dev的修改");
         System.out.println("dev的修改2");
+        System.out.println("simida");
     }
 }
