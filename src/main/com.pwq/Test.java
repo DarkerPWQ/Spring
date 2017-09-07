@@ -21,5 +21,6 @@ public class Test {
         StrUtil strUtil = ctx.getBean("strUtil",StrUtil.class);
         strUtil.show();
         System.out.println("dev的修改");
+        System.out.println("dev的修改2");
     }
 }
