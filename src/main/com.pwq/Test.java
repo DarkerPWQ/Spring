@@ -20,5 +20,6 @@ public class Test {
         math.div(n1, n2);
         StrUtil strUtil = ctx.getBean("strUtil",StrUtil.class);
         strUtil.show();
+        System.out.println("dev的修改");
     }
 }
